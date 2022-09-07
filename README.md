@@ -1,16 +1,9 @@
 ## Prazer, me chamo Rene!
   
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=ZuRLOlB4N8U">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=renefmelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Carteirinha de programador"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renefmelo&layout=compact&langs_count=7&theme=radical&custom_title=Linguas que tenho intimidade"/>
-</div>
-  </a>
-  
-  ##
+
 🔷 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
 
-🔷 Primeiro Periodo
+🔷 Segundo Periodo
 
 🔶 Pronomes: Ele/Dele
 
