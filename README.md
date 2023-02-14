@@ -3,11 +3,12 @@
 
 🔷 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
 
-🔷 Segundo Periodo
-
 🔶 Pronomes: Ele/Dele
 
-🔶 20 anos
+🔶 21 anos
+
+🔶 Interessado em: Python, C++, SQL, AWS, Javascript
+
  ##
  
 
