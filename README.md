@@ -7,7 +7,7 @@
 
 🔶 21 anos
 
-🔶 Interessado em: Python, C++, SQL, AWS, Javascript
+🔶 Interessado em: Javascript, node.JS, MongoDB
 
  ##
  
