@@ -6,9 +6,6 @@
 🔶 Pronomes: Ele/Dele
 
 🔶 22 anos
-
-🔶 Interessado em: Javascript, node.JS, MongoDB
-
  ##
  
 
