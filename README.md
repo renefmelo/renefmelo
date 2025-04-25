@@ -1,8 +1,4 @@
 ## Prazer, me chamo Rene!
-  
-
-🔷 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
-
 🔶 Pronomes: Ele/Dele
 
 🔶 23 anos
